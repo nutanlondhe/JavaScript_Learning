@@ -4,3 +4,5 @@ console.info("My Strength: Possitive Attitude, Self Motivated , Disciplined, Hon
 console.warn("My Weakness: Easily trust to anyone , emotional ")
 console.log(30+50);
 console.log(49*479);
+
+

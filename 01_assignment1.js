@@ -1,0 +1,16 @@
+var myFullName;
+console.log(myFullName);
+var myFullName="Nutan Londhe";
+console.log(myFullName);
+myFullName="Nutan Prakash Londhe";
+console.log(myFullName);
+var myLove="I Love Only JS";
+console.log(myLove);
+var firstName="Nutan";
+var lastName="Londhe";
+var age="25Years";
+var address="Mumbai";
+var pin_code="400701";
+var gender="Female";
+var isMarried="No";
+console.log(firstName,lastName,age,address,pin_code,gender,isMarried);
