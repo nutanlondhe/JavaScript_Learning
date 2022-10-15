@@ -1,20 +1,15 @@
-console.log("COUNT THE CHARACTER IN STRING");
-var text= function (count){
-    console.log(count.length);
-}
-var str="My Name is Nutan Londhe";
-text(str);
+console.log("Javascript the most popular language");
+console.log("------------------------------------------");
 
+console.log("Total character available in the string is" , character);
+console.log("--------------------------------------------");
 
-console.log("INBUILD FUNCTION charAt");
-var search=function(count){
-    console.log(count.charAt(9));
-   console.log(count.charAt());
-   console.log(count.charAt(15));
-}
+var index_s = greet.indexof("s")
+console.log("The index of character 's' is",index_s);
+console.log("======================================");
 
-text(count);
-
-
+var index_lang = greet.index("lang")
+console.log("The index of string 'lang'",index_lang);
+console.log("------------------------------------------");
 
 
