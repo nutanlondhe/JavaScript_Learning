@@ -38,3 +38,14 @@ function add_three_number(arg5,arg6,arg7){
 add_three_number(10,20,30);
 add_three_number(40,50,60);
 add_three_number("Hello" ,"Good" ,"Morning");
+
+
+function test(arg1,arg2,arg3) {
+    console.log(arg1,arg2,arg3);
+    return arg1+arg2+arg3;
+    
+
+   }
+     test(40,220,30);
+   console.log(test(40,220,30));
+
